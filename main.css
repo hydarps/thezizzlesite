@@ -1,0 +1,44 @@
+h1 {
+  text-align: center;
+  font-size: 36px;
+  margin-top: 50px;
+}
+
+.input-section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 50px;
+}
+
+label {
+  font-size: 24px;
+}
+
+#input-field {
+  font-size: 18px;
+  padding: 5px;
+  margin-top: 10px;
+}
+
+#process-button {
+  font-size: 18px;
+  padding: 10px;
+  margin-top: 20px;
+  cursor: pointer;
+}
+
+.output-section {
+  margin-top: 50px;
+  text-align: center;
+}
+
+#output-label {
+  font-size: 24px;
+}
+
+#output-result {
+  font-size: 18px;
+  font-weight: bold;
+  margin-top: 10px;
+}
